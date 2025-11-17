@@ -1,2 +1,2 @@
 # PROYECTO.PYTHON
-- dale rojo
+- lista
